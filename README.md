@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Prueba
-=======
 # 🐍 Ejercicio de Python
 
 ## 📌 Descripción
